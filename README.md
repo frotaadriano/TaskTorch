@@ -11,6 +11,10 @@ Before delving into `System.Threading.Tasks`, it is helpful to understand the co
 
 The `Task` class is an abstract representation of a job that needs to be executed. It encapsulates a unit of work that can be run asynchronously and in parallel, making thread management easier. `Tasks` can be seen as an evolution of threads, providing more features and better performance.
 
+## Reference links
+- Parallel programming in .NET: A guide to the documentation - https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/
+- System.Threading.Tasks Namespace - https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=net-7.0
+
 ## Study Topics
 
 | Topic | Description | Example |
@@ -45,6 +49,12 @@ No desenvolvimento de software moderno, as operações assíncronas e paralelas 
 Antes de aprofundar o `System.Threading.Tasks`, é útil entender o conceito de threads. Uma thread é a menor unidade de processamento que pode ser programada em um sistema operacional. Quando executamos várias threads ao mesmo tempo, estamos executando processos paralelos. Isso é essencialmente a base para a programação assíncrona e paralela. 
 
 A classe `Task` é uma representação abstrata de um trabalho que precisa ser executado. Ela encapsula uma unidade de trabalho que pode ser executada de forma assíncrona e paralela, tornando mais fácil o gerenciamento de threads. As `Tasks` podem ser vistas como uma evolução das threads, fornecendo mais recursos e melhor desempenho.
+
+
+## Reference links
+- Parallel programming in .NET: A guide to the documentation - https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/
+- System.Threading.Tasks Namespace - https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=net-7.0
+
 
 ## Tópicos do Estudo
 
